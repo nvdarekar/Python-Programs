@@ -1,3 +1,0 @@
-Last Man Standing" Programming Problem
-
-1000 people are standing in a circle, each of them numbered from 1 to 1000. Person with #1 has a gun.He shoots person #2 and passes the gun on to person 3. Person 3 kills person 4 and passes the gun to person 5 and so on. Every time the person who has the gun shoots the next person in the circle and passes the gun. This continues till there is only one person alive. Write a program to output the number of the last man standing.
