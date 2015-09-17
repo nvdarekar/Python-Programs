@@ -1,0 +1,6 @@
+Vineel Phatak, 5200000, NOBODY
+Ajay Joshi, 2500000, Vineel Phatak
+Abhishek Chauhan, 1200000, Ajay Joshi
+Vijaya Mundada, 600000, Abhishek Chauhan
+Rajan Gawli, 7000000, Vineel Phatak
+Sheila Rodrigues, 350000, Vineel Phatak
